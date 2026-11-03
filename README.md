@@ -8,7 +8,7 @@
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-# ⚡ ARYAN KIRIT TANNA
+#  ARYAN KIRIT TANNA
 
 ### Building Deterministic AI, High-Throughput Microservices & Scalable Systems
 
