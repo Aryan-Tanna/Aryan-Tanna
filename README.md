@@ -27,7 +27,7 @@
 
 ## 👨‍💻 `whoami`
 
-I am a **Full-Stack Software and AI Systems Engineer** based in Mumbai, currently pursuing my B.Tech in Computer Science and Engineering (Data Science) at **Dwarkadas J. Sanghvi College of Engineering (DJSCE)** with a **9.2 CGPA**.
+I am a **Full-Stack Software and AI Systems Engineer** based in Mumbai, currently pursuing my B.Tech in Computer Science and Engineering (Data Science) at **Dwarkadas J. Sanghvi College of Engineering (DJSCE)**.
 
 My engineering philosophy centers on **predictability, clean abstractions, and high throughput**:
 * **Systems & Backends:** Architecting modular, test-driven microservices across Python, Node.js, NestJS, and FastAPI, backed by relational and vector databases.
